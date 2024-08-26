@@ -1,4 +1,4 @@
-# Fake Product Identification using Blockchain
+# Secure Organ Transplantation System using Blockchain
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
@@ -16,7 +16,7 @@
 
 1. Clone the project
 ```
-git clone https://github.com/A4ANK/Fake-Product-Identification.git
+git clone https://github.com/Anwesha33/HealthIQ.git
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
